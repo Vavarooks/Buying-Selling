@@ -1,4 +1,5 @@
 import React from "react";
+import Home from "./HomePage"
 
 function Body() {
     return (
@@ -9,7 +10,8 @@ function Body() {
                 </h1>
             <div className="alert alert-success" role="alert">
                 Buy the art here! See all the prices!
-</div>
+            </div>
+<Home/>
         </div>
     );
 }
