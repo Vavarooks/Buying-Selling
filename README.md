@@ -1,7 +1,6 @@
-# Arts and Such!
+# Buy and sell!
 
-- For your art and programming needs!
-- This site has prices and shows of other websites I have made.
+- a easy website to buy my sisters work!
 
 ## Uses
 
@@ -13,4 +12,4 @@
 
 ### Accsess
 
-- https://x-kitty-commissions.herokuapp.com/
+- 
