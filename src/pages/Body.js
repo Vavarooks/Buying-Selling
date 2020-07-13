@@ -5,11 +5,11 @@ function Body() {
         <div>
 
             <h1>
-               Evelny's Art Gallary
+                Evelny's Art Gallary
                 </h1>
-            <h2>
-               Buy the art we put up to sell easily!
-                </h2>
+            <div className="alert alert-success" role="alert">
+                Buy the art here! See all the prices!
+</div>
         </div>
     );
 }
