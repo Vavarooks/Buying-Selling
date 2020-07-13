@@ -1,6 +1,7 @@
 import React from "react";
 import Buy from "./Buypage";
 import Seller from "./Sellerpage";
+import Home from "./HomePage";
 
 function Body() {
     return (
